@@ -1,4 +1,13 @@
-### Hi there 👋
+### M H D <img src="https://img.shields.io/github/followers/alirezamhd?style=social" alt="git badge"/>
+---
+<a href="https://instagram.com/alirezaa_mhd/">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram Badge"/>
+ </a>
+ <a href="https://t.me/alirezaa_mhd/">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="telegram badge"/>
+ </a>
+ 
+
 
 <!--
 **alirezamhd/alirezamhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +22,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
@@ -25,6 +34,9 @@ Here are some ideas to get you started:
   </a>
   </div>
 </div>
+-->
+
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
