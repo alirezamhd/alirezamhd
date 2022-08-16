@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 I am a `PYTHON_DJANGO` Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
 
 ### :fire: My Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=vue&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alirezamhd&theme=vue&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezamhd&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
