@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me :
-I am a `PYTHON_DJANGO` Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
+I am a `DART_FLUTTER` Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
 
 ### :fire: My Stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alirezamhd&theme=vue&show_icons=true)
